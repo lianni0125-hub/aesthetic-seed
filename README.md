@@ -67,7 +67,7 @@ The seed first became a deconstruction concept image:
 
 It was then developed into a feasible installation using laminated low-iron glass, a transparent flexible membrane, a shallow water tray, controlled ripples, and reflected light.
 
-📖 [Explore the complete conversation-led creation example (English PDF)](examples/aesthetic-seed-creation-example-en.pdf) · [Original conversation (Chinese PDF)](examples/aesthetic-seed-creation-example.pdf)
+📖 [Read the full conversation and see how the artwork evolved (English PDF)](examples/aesthetic-seed-creation-example-en.pdf) · [Original conversation (Chinese PDF)](examples/aesthetic-seed-creation-example.pdf)
 
 ## 🚀 Install in Codex
 
