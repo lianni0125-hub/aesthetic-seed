@@ -4,7 +4,7 @@
 
 Aesthetic Seed is an image-led AI art skill that begins with something AI cannot replace: the user's own subtle, first-person response to an image. It helps that response move through visual deconstruction, an aesthetic seed, a concept image, a new artwork, and—when desired—a coherent body of work.
 
-[中文说明](README.zh-CN.md) · Creation examples: [Full English adaptation — translated from the original Chinese conversation](examples/aesthetic-seed-creation-example-en.pdf) · [Original conversation (Chinese PDF)](examples/aesthetic-seed-creation-example.pdf)
+[中文说明](README.zh-CN.md) · [View the full creation example (English PDF)](examples/aesthetic-seed-creation-example-en.pdf) · [中文原始对话](examples/aesthetic-seed-creation-example.pdf)
 
 ![A buildable light installation developed through Aesthetic Seed](media/installation-render.png)
 
@@ -67,7 +67,7 @@ The seed first became a deconstruction concept image:
 
 It was then developed into a feasible installation using laminated low-iron glass, a transparent flexible membrane, a shallow water tray, controlled ripples, and reflected light.
 
-📖 Creation examples: [Full English adaptation — translated from the original Chinese conversation](examples/aesthetic-seed-creation-example-en.pdf) · [Original conversation (Chinese PDF)](examples/aesthetic-seed-creation-example.pdf)
+📖 [Explore the complete conversation-led creation example (English PDF)](examples/aesthetic-seed-creation-example-en.pdf) · [Original conversation (Chinese PDF)](examples/aesthetic-seed-creation-example.pdf)
 
 ## 🚀 Install in Codex
 
