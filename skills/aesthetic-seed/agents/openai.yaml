@@ -1,0 +1,4 @@
+interface:
+  display_name: "美学种子 Aesthetic Seed"
+  short_description: "从微妙感受中提炼本质，并培育完整艺术美学"
+  default_prompt: "Use $aesthetic-seed to help me uncover the subtle emotion in these images and grow it into an original artwork."
